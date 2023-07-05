@@ -3,6 +3,8 @@ The official website for the Dutch "Studentenhub" Discord server.
 
 I wanted to create a simple website to get started with Svelte. This is what it became. It's not much, but it's mine.
 
+And yes I am aware of the somewhat weird formatting. Issue for later.
+
 ### Stack
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
