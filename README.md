@@ -10,6 +10,7 @@ I wanted to create a simple website to get started with Svelte. This is what it 
 
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-000?style=for-the-badge&logo=svelte)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-000?style=for-the-badge&logo=daisyui)
 
 ![Npm](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
