@@ -32,7 +32,8 @@
 
         <a
             class="btn btn-ghost btn-wide bg-[#fda515]/80 hover:bg-[#fda515]/70 font-semibold tracking-wider mt-10"
-            href="https://discord.com/invite/YtXxyCtfwv">Join de server</a
+            href="https://discord.com/invite/YtXxyCtfwv"
+            target="_blank">Join de server</a
         >
     </main>
 
