@@ -1,4 +1,4 @@
-<footer class="p-4 text-sm tracking-wider text-center">
+<footer class="p-4 text-xs tracking-wider text-center md:text-sm">
     <p>
         Made with ❤️ by <a
             href="https://fyxren.com"
